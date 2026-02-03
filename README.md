@@ -16,6 +16,6 @@ console.log(`${myVar} = ${typeof myVar}`);
 
 ## 📝 Notas
 
-No usar any, porque estaríamos usando Python y no TypeScript.
+* No usar any, porque estaríamos usando Python y no TypeScript.
 
 ---
