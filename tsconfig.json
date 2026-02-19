@@ -3,7 +3,9 @@
   "exclude": [
     "./tests",
     "./node_modules",
-    "./dist"
+    "./dist",
+    "vitest.config.ts",
+    "eslint.config.mjs"
   ],
   "compilerOptions": {
     // File Layout
