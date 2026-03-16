@@ -11,7 +11,7 @@ import { Observable, Observer, Order, OrderStatus } from "../dist/type.js";
  */
 
 export class OrderManager implements Observable {
-  ç
+  
   
 
   public addOrder(order: Order): void{
